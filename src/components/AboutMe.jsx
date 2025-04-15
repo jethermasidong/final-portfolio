@@ -1,7 +1,7 @@
 import React from 'react';
-import profileImg from './images/profile.jpg'; // Replace with your image path
+import profileImg from "./images/profile1.png";
 import { FaGithub, FaLinkedin, FaInstagram } from 'react-icons/fa';
-import { FiDownload } from 'react-icons/fi'; // For the download icon
+import { FiDownload } from 'react-icons/fi'; 
 
 const AboutMe = () => {
   return (
